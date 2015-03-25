@@ -1,0 +1,170 @@
+
+.fondo{
+    
+  background: rgb(254,255,255); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(254,255,255,1) 0%, rgba(221,241,249,1) 35%, rgba(160,216,239,1) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(254,255,255,1)), color-stop(35%,rgba(221,241,249,1)), color-stop(100%,rgba(160,216,239,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  rgba(254,255,255,1) 0%,rgba(221,241,249,1) 35%,rgba(160,216,239,1) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  rgba(254,255,255,1) 0%,rgba(221,241,249,1) 35%,rgba(160,216,239,1) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  rgba(254,255,255,1) 0%,rgba(221,241,249,1) 35%,rgba(160,216,239,1) 100%); /* IE10+ */
+background: linear-gradient(to bottom,  rgba(254,255,255,1) 0%,rgba(221,241,249,1) 35%,rgba(160,216,239,1) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#feffff', endColorstr='#a0d8ef',GradientType=0 ); /* IE6-9 */
+
+
+ 	width: 90%;
+    height: 800px;
+    padding-bottom: 44px;
+	margin-top: 0px;
+    margin-left: 5%;
+    margin-right: 5%;
+
+
+}
+.nave{
+    background: #007bff;
+	margin-top: 0px;
+ 	
+	width: 100%;
+    height: 80px;
+
+
+}
+.nave div{
+
+    display: inline-block;
+} 
+.navLeft{
+        float: left;
+        margin: 0px;
+        text-align: center;
+        font-variant: small-caps;
+        font-style: oblique;
+        height: 80px;
+        width: 45%;
+}
+
+.sesion{
+    
+    float: right;
+    margin-top: 0px;
+    height: 80px;
+    width: 52%;
+    height: 100%;
+    text-align: right; 
+    
+   
+
+}
+.arriba{
+    height: 54%;
+    width: 99%;
+   
+    margin-top: 0px;
+
+}
+.derecho{
+    width: 99%;
+    height: 36%;
+    
+    margin-top: 0px;
+     
+    
+}
+ul{
+    
+}
+.derecho li{
+    font-size: 16px;
+    font-style: italic;
+    background: #ce3535;
+    border-radius: 15px;
+    display: inline;
+    padding-right: 20px;
+    padding-left: 20px;
+
+}
+.derecho li:hover{
+
+    background: #e25f5f;
+}
+.footer{
+	
+	margin-left: 280px;
+
+}
+
+
+a, li, ol{
+    font-family: serif;
+    text-decoration: none;
+    list-style: none;
+    color: black;
+
+}
+#login{
+
+	background: transparent;
+}
+
+
+#usuarios{
+
+	background: transparent;
+	margin-right: 30px;
+}
+.datos{
+    
+    border: #ce3535;
+    font-size: 18px;
+    margin-top: 5%;
+    margin-left: 14%;
+
+}
+.datos  a{
+
+    color: blue;
+    text-decoration: underline;
+
+}
+.agrega{
+     background: rgb(242,246,248); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(242,246,248,1) 0%, rgba(216,225,231,1) 50%, rgba(181,198,208,1) 51%, rgba(224,239,249,1) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(242,246,248,1)), color-stop(50%,rgba(216,225,231,1)), color-stop(51%,rgba(181,198,208,1)), color-stop(100%,rgba(224,239,249,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  rgba(242,246,248,1) 0%,rgba(216,225,231,1) 50%,rgba(181,198,208,1) 51%,rgba(224,239,249,1) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  rgba(242,246,248,1) 0%,rgba(216,225,231,1) 50%,rgba(181,198,208,1) 51%,rgba(224,239,249,1) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  rgba(242,246,248,1) 0%,rgba(216,225,231,1) 50%,rgba(181,198,208,1) 51%,rgba(224,239,249,1) 100%); /* IE10+ */
+background: linear-gradient(to bottom,  rgba(242,246,248,1) 0%,rgba(216,225,231,1) 50%,rgba(181,198,208,1) 51%,rgba(224,239,249,1) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2f6f8', endColorstr='#e0eff9',GradientType=0 ); /* IE6-9 */
+
+    display: block;  
+    padding: 10px;
+    float:left;
+    text-align:center;
+    width: 170px;
+    height: 20px;
+    border-radius: 30px;
+    border-style: groove;
+    border: solid #007bff;
+    
+}
+#volver{
+
+    float: right;
+}
+hr{
+
+    margin:0px;
+}
+#cierre{
+
+    background: transparent;
+}
+.formulario{
+
+
+}
+th{
+    background: #007bff;}
+/*      
+    menussssssssssssssssssssssssss
+            */

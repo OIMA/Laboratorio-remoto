@@ -1,0 +1,68 @@
+#titulo{
+	margin-top: -150px;
+	text-align: center;
+
+}
+#logoT{
+
+	margin-top: 0px;
+	margin-left: 50px;
+}
+li{
+
+	list-style: none;
+	background: #D6D6D5;
+	
+}
+ul > li{
+	
+
+	display:inline-block;
+	font-size: 20px;
+	width: 160px;
+	padding: 10px;
+
+}
+ul > li:hover{
+	background: #c4a4a4;
+	font-style: oblique;
+	
+}
+
+
+.botonMenu{
+
+	color: gray;
+	text-decoration: none;
+
+}
+.cuerpo{
+
+	margin-left: 155px;
+}
+.tabla{
+	
+	background: #e5a5a5;
+	float: right;
+	margin
+	margin-top: 180 px;
+	margin-right: 350px;
+}
+#ingreso{
+
+	float:right;
+	width: 120px;
+	height: 35px;
+}
+#brazo1{
+
+	float: left;
+	width: 300px;
+	height: 300px;
+}
+table{
+	
+
+	font-size: 20px;
+
+}
