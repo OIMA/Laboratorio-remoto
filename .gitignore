@@ -1,4 +1,5 @@
 build/
 *.tmp
+*.txt
 *.jar
 src/docs/*
