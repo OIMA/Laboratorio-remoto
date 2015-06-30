@@ -2,3 +2,4 @@ build/
 *.tmp
 *.jar
 src/docs/*
+/nbproject/private/
